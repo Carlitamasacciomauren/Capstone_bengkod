@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # 1. Instalasi
-!pip install -q streamlit imblearn
+#!pip install -q streamlit imblearn
 
 # ============================================
 # Proyek Klasifikasi Obesitas - UAS
